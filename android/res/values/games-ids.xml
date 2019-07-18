@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">1029301766179</string>
+    <string name="package_name">com.sanha.swinggame</string>
+    <string name="achievement_10_points">CgkIo5CqufodEAIQAQ</string>
+    <string name="achievement_20_points">CgkIo5CqufodEAIQAg</string>
+    <string name="achievement_30_points">CgkIo5CqufodEAIQAw</string>
+    <string name="achievement_40_points">CgkIo5CqufodEAIQBQ</string>
+    <string name="achievement_50_points">CgkIo5CqufodEAIQBg</string>
+    <string name="achievement_60_points">CgkIo5CqufodEAIQCQ</string>
+    <string name="achievement_70_points">CgkIo5CqufodEAIQCg</string>
+    <string name="achievement_10_games">CgkIo5CqufodEAIQBw</string>
+    <string name="achievement_100_games">CgkIo5CqufodEAIQCA</string>
+    <string name="achievement_500_games">CgkIo5CqufodEAIQCw</string>
+    <string name="leaderboard_highscores">CgkIo5CqufodEAIQBA</string>
+</resources>
